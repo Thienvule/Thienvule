@@ -21,20 +21,20 @@ To prepare for this transition, I joined an intensive training program for data 
 Project Overview: August's performance at TrendyGear was notably poor, marking a decline that became evident in the second quarter. Recognizing the urgency to reverse this downward trend, the stakeholders are eager to explore effective strategies. To facilitate this discussion, they have included me, their data analyst, in the meeting to address some of the ad-hoc requests. My role will be to query immediate data, providing insights that will help guide our decision-making process.
 
 
-2. Ecommerce | Customer Behavior | RFM Analysis & PBI ([View here]([url](https://github.com/Thienvule/Ecommerce-Customer-Behavior-RFM---PBI))
+2. Ecommerce | Customer Behavior | RFM Analysis & PBI ([View here](https://github.com/Thienvule/Ecommerce-Customer-Behavior-RFM---PBI))
 Project Overview: As a data analyst, I was tasked with investigating why Adventure Works, a bicycle manufacturer, was experiencing stagnant sales despite a significant increase in customers. In this project, I'll walk you through my analysis applying a human centric concept called Design Thinking, from data preparation to insights, and reveal the surprising reasons behind this paradox.
 
-3. Retail | Customer Behavior | RFM Analysis & Python ([View here]([url](https://github.com/Thienvule/Python-Retail-Sector-How-RFM-Analysis-Unlocked-Insights-to-Drive-Engagement-and-Maximize-Revenue))
+3. Retail | Customer Behavior | RFM Analysis & Python ([View here]((https://github.com/Thienvule/Python-Retail-Sector-How-RFM-Analysis-Unlocked-Insights-to-Drive-Engagement-and-Maximize-Revenue))
 Project Overview: Business Context Superstore, like many ecommerce businesses, struggles to effectively retain its most valuable customers and maximize revenue. With an increasing volume of transactional data, understanding customer behavior is critical for segmentation, targeted marketing, and loyalty-building initiatives.
 
-4. Ecommerce | Customer Churn | Supervised learning ([View here]([url](https://github.com/Thienvule/Python-Supervised-Machine-Learning-Ecommerce-Customer-Churn))
+4. Ecommerce | Customer Churn | Supervised learning ([View here]((https://github.com/Thienvule/Python-Supervised-Machine-Learning-Ecommerce-Customer-Churn))
 Project Overview: In the competitive world of e-commerce, customer retention is a crucial determinant of long-term success. Our company has observed an alarming trend in user behavior: an increasing number of customers are churning—abandoning their carts, failing to complete purchases, and ceasing interactions altogether. To address this challenge, our initiative focuses on predicting churned users and offering strategic promotions to re-engage them. By understanding the factors that lead to churn, we can not only recover lost revenue but also enhance customer relationships and foster loyalty.
 
-5. Education | Optimizing operation | Spreadsheet ([View here]([url](https://github.com/Thienvule/Spreadsheet-CRM-Lead-Automated-Dashboard))
+5. Education | Optimizing operation | Spreadsheet ([View here](https://github.com/Thienvule/Spreadsheet-CRM-Lead-Automated-Dashboard))
 Project Overview: The company is an academy dedicated to training individuals in data skills for careers in data analysis. As the academy expands, the sales manager is encountering difficulties in manually managing the allocation of an increasing number of sales leads. This process was much simpler when there were fewer leads. I have been assigned the task of developing a more efficient solution to enhance the lead allocation process.
 
 
-6. Retail | Optimizing operation| Spreadsheet ([View here]([url](https://github.com/Thienvule/Operational-Marketing-Dashboard))
+6. Retail | Optimizing operation| Spreadsheet ([View here](https://github.com/Thienvule/Operational-Marketing-Dashboard))
 Project Overview: A marketing manager at Florae, a floral business, is seeking to enhance her team's productivity by optimizing marketing campaigns more efficiently. I am responsible for creating an interactive dashboard that reports key metrics in real time and identifies both effective and ineffective campaigns.
 
 ## Certificates
