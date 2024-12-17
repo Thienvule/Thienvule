@@ -25,11 +25,11 @@ Project Overview: August's performance at TrendyGear was notably poor, marking a
 
 Project Overview: As a data analyst, I was tasked with investigating why Adventure Works, a bicycle manufacturer, was experiencing stagnant sales despite a significant increase in customers. In this project, I'll walk you through my analysis applying a human centric concept called Design Thinking, from data preparation to insights, and reveal the surprising reasons behind this paradox.
 
-3. Retail | Customer Behavior | RFM Analysis & Python ([View here]((https://github.com/Thienvule/Python-Retail-Sector-How-RFM-Analysis-Unlocked-Insights-to-Drive-Engagement-and-Maximize-Revenue))
+3. Retail | Customer Behavior | RFM Analysis & Python ([View here](https://github.com/Thienvule/Python-Retail-Sector-How-RFM-Analysis-Unlocked-Insights-to-Drive-Engagement-and-Maximize-Revenue))
 
 Project Overview: Business Context Superstore, like many ecommerce businesses, struggles to effectively retain its most valuable customers and maximize revenue. With an increasing volume of transactional data, understanding customer behavior is critical for segmentation, targeted marketing, and loyalty-building initiatives.
 
-4. Ecommerce | Customer Churn | Supervised learning ([View here]((https://github.com/Thienvule/Python-Supervised-Machine-Learning-Ecommerce-Customer-Churn))
+4. Ecommerce | Customer Churn | Supervised learning ([View here](https://github.com/Thienvule/Python-Supervised-Machine-Learning-Ecommerce-Customer-Churn))
 
 Project Overview: In the competitive world of e-commerce, customer retention is a crucial determinant of long-term success. Our company has observed an alarming trend in user behavior: an increasing number of customers are churning—abandoning their carts, failing to complete purchases, and ceasing interactions altogether. To address this challenge, our initiative focuses on predicting churned users and offering strategic promotions to re-engage them. By understanding the factors that lead to churn, we can not only recover lost revenue but also enhance customer relationships and foster loyalty.
 
