@@ -42,6 +42,17 @@ Project Overview: The company is an academy dedicated to training individuals in
 
 Project Overview: A marketing manager at Florae, a floral business, is seeking to enhance her team's productivity by optimizing marketing campaigns more efficiently. I am responsible for creating an interactive dashboard that reports key metrics in real time and identifies both effective and ineffective campaigns.
 
+
+7. Ecommerce | A/B Testing | Python ([View here](https://github.com/Thienvule/Ecommerce-AB-Testing-Python))
+
+Project Overview: An ecommerce business called "Shopii" offer a group of whitelist customers a special promotion for the membership subscription, and they have 2 type of screens: (an original price of package is 199k)
+- Screen A: show a discounted price of paid package (99k)
+- Screen B: show a discount amount in price (discount 100k)
+
+Task to be done:
+- Design Ab testing experiment to determine which screen design is more effective at driving conversions.
+- The data was collected as an attached file. Assuming that the ab testing experiment was conducted in the perfect circumstances, use hypothesis testing to prove the results is significant
+
 ## Certificates
 - Hackerrank SQL - 2024
 - Data Analyst Intensive Training Unigap 2024
