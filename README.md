@@ -15,6 +15,9 @@ During my MBA, I took a course called Business Analytics in Practice, where I ha
 To prepare for this transition, I joined an intensive training program for data analysts, where I honed my skills in essential tools such as SQL, Python, Power BI, and machine learning. I’ve completed several projects that serve as a portfolio to demonstrate my capabilities in this field.
 
 ## Learning Project Porfolio
+1. Import Trading | Market Research | Power Query & Power BI ([View here](https://github.com/Thienvule/Trading-Market-Research-Power-Query-Power-BI))
+
+Project Overview: The project aimed to analyze market data in the feed ingredients industry to evaluate Dragon Eagle's (DE) performance and enhance its sourcing strategies. By utilizing data visualization tools and analytical techniques, the project sought to provide actionable insights for the company’s trading operations in 2024.
 
 1. Ecommerce | Ad-hoc requests relating to performance| SQL & PBI Project ([View here](https://github.com/Thienvule/Ecommerce-SQL-PBI/blob/main/README.md))
 
